@@ -1,4 +1,4 @@
-https://github.com/StefanySuzany/site_iphone.git
+https://stefanysuzany.github.io/site_iphone/
 
 Site desenvolvido na aula de Introdução à Tecnologia Web
 
