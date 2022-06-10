@@ -2,7 +2,7 @@ https://stefanysuzany.github.io/site_iphone/
 
 Site desenvolvido na aula de Introdução à Tecnologia Web
 
-Curso: Sistema de Informa
+Curso: Sistema de Informação
 
 Intituição Unirios
 
