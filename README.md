@@ -4,7 +4,7 @@ Site desenvolvido na aula de Introdução à Tecnologia Web
 
 Curso: Sistema de Informação
 
-Intituição Unirios
+Instituição Unirios
 
 Site implementado com HTML e CSS,usando uma biblioteca JQuery.
 
